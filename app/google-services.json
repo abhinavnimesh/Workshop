@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "180743856652",
+    "firebase_url": "https://workshop-2186e.firebaseio.com",
+    "project_id": "workshop-2186e",
+    "storage_bucket": "workshop-2186e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180743856652:android:b5f32141a7af26f4",
+        "android_client_info": {
+          "package_name": "com.workshop.workshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180743856652-jhkg960tu7g0iur3qnkclftti320u2i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpWOp-jA1dbn4tBNMFMKllz7-zFdguYuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
